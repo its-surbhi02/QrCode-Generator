@@ -13,3 +13,4 @@ Real-Time Preview: A real-time preview feature allows users to visualize the gen
 Cross-Platform Compatibility: Our QR code generator is designed to be compatible across various devices and platforms, including desktops, laptops, tablets, and smartphones, ensuring accessibility for users on the go.
 <br>
 Responsive Design: The design is responsive, adapting seamlessly to different screen sizes and resolutions, providing an optimal viewing experience across devices.
+<br>
