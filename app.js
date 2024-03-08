@@ -3,6 +3,7 @@ const sizes = document.getElementById('sizes');
 const generateBtn = document.getElementById('generateBtn');
 const downloadBtn = document.getElementById('downloadBtn');
 const qrContainer = document.querySelector('.qr-body');
+    
 
 let size = sizes.value;
 generateBtn.addEventListener('click',(e)=>{
@@ -17,6 +18,8 @@ sizes.addEventListener('change',(e)=>{
 
 downloadBtn.addEventListener('click', ()=>{
     let img = document.querySelector('.qr-body img');
+
+    
 
     if(img !== null){
         let imgAtrr = img.getAttribute('src');
